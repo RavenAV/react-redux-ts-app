@@ -1,4 +1,4 @@
-import {UserAction, UserActionTypes, UserState} from "../../types/todo";
+import {UserAction, UserActionTypes, UserState} from "../../types/user";
 
 // описываем тип состояние
 const initialState : UserState = {
